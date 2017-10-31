@@ -19,6 +19,11 @@ a {
   color: seashell;
 }
 
+h2, h3, h4 {
+  margin: 0px;
+  padding: 10px;
+}
+
 /* Header */
 
 header {
@@ -44,4 +49,31 @@ nav {
 nav span {
   display: inline-block;
   padding: 20px 10px;
+}
+
+/* Main Content */
+
+.main {
+  padding-top: 69px;
+  opacity: 0.9;
+  width: 1200px;
+  margin: auto;
+}
+
+div {
+  display: block;
+}
+
+/* Mission */
+
+#mission {
+  height: 700px;
+  background-image: url(../images/img-mission-background.jpg);
+  padding-top: 70px;
+}
+
+#mission .content {
+  margin: auto;
+  background-color: black;
+  width: 100%;
 }

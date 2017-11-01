@@ -130,3 +130,16 @@ div {
   padding: 10px;
   margin: 5px 20px;
 }
+
+/* Contact */
+
+#contact {
+  height: 200px;
+}
+
+/* Footer */
+
+footer {
+  text-align: left;
+  padding-left: 20px;
+}
